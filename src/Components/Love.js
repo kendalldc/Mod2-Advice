@@ -48,4 +48,4 @@ this.setState({advice})
   }
 }
 export default Love;
-.
+
