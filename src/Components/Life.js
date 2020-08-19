@@ -49,4 +49,4 @@ this.setState({advice})
 }
 export default Life;
 
-.
+
