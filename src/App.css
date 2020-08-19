@@ -300,11 +300,14 @@ font-size: 150px;
 }
 
 .cover-Button{
-width: 100px;
+/* width: 100px;
 height: 80px;
 border: solid 3px black;
-background-color: #164ca7;
-
+background-color: #164ca7; */
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
 
 
 }
@@ -336,6 +339,7 @@ body.main div.tm-header-placeholder {
 }
 
 .vice-buttons:hover{
+  border: solid;
   color:#e7e7e7;
   background:black ;
 }

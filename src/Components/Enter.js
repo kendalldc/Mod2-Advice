@@ -17,19 +17,10 @@ import {
 function App(){
   return(
 
-    <Router>
-<div className="App">
-<Cover />
-<Nav />
-<Switch>
-{/* <Route exact path='/' component={Cover} /> */}
-<Route exact path='/home' component={Home} />
-<Route path='/life' component={Life} />
-<Route path='/love' component={Love} />
-{/* <Route path='/cover' component={Cover} /> */}
-</Switch>
+    
+<div className="enter">
+
 </div>
-</Router>
   )
 }
 
@@ -38,4 +29,4 @@ function App(){
 
 
 
-export default App;
+export default Enter;
