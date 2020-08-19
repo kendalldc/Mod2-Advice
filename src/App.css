@@ -386,3 +386,40 @@ body.main div.tm-header-placeholder {
   left:40%;
   top:20%
 }
+
+ .About{
+  position:absolute;
+  left:10%;
+  top:20%;
+  /* display: grid;
+  grid-template-columns: minmax(1.2rem, 1fr) minmax(auto, 57ch) minmax(1.2rem, 1fr); */
+} 
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 1px 1px;
+  grid-template-areas: "img img img" "text text text";
+}
+
+.img {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 1px 1px;
+  grid-template-areas: "title title title" "pic pic pic";
+  grid-area: img;
+}
+
+.title { 
+  grid-area: title;
+  display: flex;
+  justify-content: center;
+ }
+
+.pic { grid-area: pic;
+  display: flex;
+  justify-content: center; }
+
+.text { grid-area: text; }
