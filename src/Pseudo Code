@@ -32,13 +32,6 @@ Make use of async actions to send data to and receive data from a server
 
 
 
-git status
-
-git add .
-
- git commit -m "commit #"
-
- git push
 
 
 
