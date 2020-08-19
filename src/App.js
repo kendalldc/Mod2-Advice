@@ -13,16 +13,19 @@ import {
 } from "react-router-dom";
 
 
+
 function App(){
   return(
+
     <Router>
 <div className="App">
+<Cover />
 <Nav />
 <Switch>
 <Route exact path='/' component={Home} />
 <Route path='/life' component={Life} />
 <Route path='/love' component={Love} />
-<Route path='/cover' component={Cover} />
+{/* <Route path='/cover' component={Cover} /> */}
 </Switch>
 </div>
 </Router>
