@@ -11,7 +11,7 @@ function Home (){
    {/* <h2 className="home-Vice">What's your Vice?</h2> */}
 
    <div>
-  <Link to='/life'> <button className="vice-buttons" >Love</button> </Link> <button  className="vice-buttons">Life</button>
+  <Link to='/love'> <button className="vice-buttons" >Love</button> </Link>    <Link to='/life'><button  className="vice-buttons">Life</button></Link>
 </div>
 </div>
         )
