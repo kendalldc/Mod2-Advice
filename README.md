@@ -3,7 +3,7 @@ Need help in life? You're in the right place!
 
 Everyone needs a fresh perspective on the problem we deal with. This fortune cookie style advice app will supply all the perspective you need. 
 
-Users are able to get advice for them problems in one click.  This is 
+Users are able to get advice for them problems in one click.  This appeals to users who are interested in things like meditation and also the office.
 
 
 
