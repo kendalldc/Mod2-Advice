@@ -308,6 +308,7 @@ font-size: 40px;
   height: 900px;
   display: flex;
   justify-content: center;
+  /* background: url(/src/Components/Home.js); */
 }
 
 .cover-Text{
@@ -361,4 +362,17 @@ body.main div.tm-header-placeholder {
   border: solid;
   color:#e7e7e7;
   background:black ;
+}
+
+
+.Life{
+  position:absolute;
+  left:40%;
+  top:20%
+}
+
+.Love{
+  position:absolute;
+  left:40%;
+  top:20%
 }
