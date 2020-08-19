@@ -265,4 +265,6 @@ font-size: 40px;
 .cover{
   background-color: bisque;
   color: violet;
+  width: 1400px;
+  height: 900px;
 }
