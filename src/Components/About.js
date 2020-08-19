@@ -7,7 +7,7 @@ function About(){
   
   <div className="About">
   
-  <h1>Everyone Need Advice</h1>
+  <h1>Everyone Needs Advice</h1>
   </div>
   
     )
