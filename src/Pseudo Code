@@ -1,0 +1,44 @@
+Fortune cookie type advice, you didn't know you needed
+
+
+Project Description:
+This application/ website will allow users to get real time advice from there choice of 
+a stranger or a liscensed therapist. When you need insight and a fresh perspective in order to 
+life problems refer to this app for any and anything. All user information is private and the can 
+inquire anonomysly
+
+ 2 container components (stateful):
+- Life. js 
+- Love. js
+
+5 presentational components (stateless):
+- app.js
+-
+-
+-
+-
+
+ 3 or more routes:
+ -Home
+ -Life  
+ -Love                      
+
+Make use of async actions to send data to and receive data from a server
+-life.js (fetching axios)
+
+
+
+
+
+
+
+git status
+
+git add .
+
+ git commit -m "commit #"
+
+ git push
+
+
+
