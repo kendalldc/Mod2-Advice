@@ -1,6 +1,6 @@
 
-
-
+Need help in life?
+This fortune cookie style advice app will supply all the advice you'll need.
 
 
 
