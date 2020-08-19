@@ -263,8 +263,35 @@ font-size: 40px;
 }
 
 .cover{
-  background-color: bisque;
-  color: violet;
+  background-color: black;
+  color: white;
   width: 1400px;
   height: 900px;
+  display: flex;
+  justify-content: center;
 }
+
+.cover-Text{
+font-size: 150px;
+}
+
+.cover-Button{
+width: 100px;
+height: 80px;
+}
+
+
+.life-heading{
+font-size: 40px;
+
+}
+
+.love-heading{
+  font-size: 40px;
+  
+  }
+
+body.main div.tm-header-placeholder {
+  display:none;
+}
+

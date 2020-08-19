@@ -19,7 +19,7 @@ function App(){
 
     <Router>
 <div className="App">
-<Cover />
+{/* <Cover /> */}
 <Nav />
 <Switch>
 <Route exact path='/' component={Home} />

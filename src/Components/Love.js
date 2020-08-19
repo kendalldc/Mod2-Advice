@@ -34,8 +34,8 @@ this.setState({advice})
     const{advice} = this.state
     return(
 
-    <div className="app">
-        <h2>Love</h2>
+    <div className="Love">
+        <h1 className="love-heading">Love.</h1>
       <div className="card">
        <h1 className="heading">{this.state.advice}</h1>
        <button className="button" onClick={this.fetchAdvice}>
