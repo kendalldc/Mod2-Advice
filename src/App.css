@@ -299,7 +299,7 @@ font-size: 40px;
 
 /* ___________________________________________________________ */
 
-
+/* COVER PAGE */
 
 .cover{
   background-color: black;
@@ -323,9 +323,12 @@ display: flex;
 justify-content: center;
 align-items: center;
 flex-direction: column;
-
+position:absolute;
+left:30%;
+top:40%
 
 }
+/* ___________________________________________________________ */
 
 
 .life-heading{
