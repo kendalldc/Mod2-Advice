@@ -1,25 +1,10 @@
 import React from 'react';
-import './App.css';
-import Nav from './Nav'
-import Home from './Components/Home'
-import Life from './Components/Life'
-import Love from './Components/Love'
-import Cover from './Components/Cover'
-import {
-  BrowserRouter as Router,
-  Switch,
-  Route,
-  Link
-} from "react-router-dom";
+import {Link} from 'react-router-dom';
 
-
-
-function App(){
+function Enter(){
   return(
-
-    
 <div className="enter">
-
+<Link to="/home"><button className="cover-Button">Enter</button></Link>
 </div>
   )
 }

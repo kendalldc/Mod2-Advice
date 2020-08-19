@@ -19,15 +19,16 @@ function App(){
 
     <Router>
 <div className="App">
-<Cover />
-<Nav />
+{/* <Cover /> */}
 <Switch>
-{/* <Route exact path='/' component={Cover} /> */}
+<Route exact path='/' component={Cover} />
 <Route exact path='/home' component={Home} />
 <Route path='/life' component={Life} />
 <Route path='/love' component={Love} />
 {/* <Route path='/cover' component={Cover} /> */}
 </Switch>
+<Nav />
+
 </div>
 </Router>
   )
