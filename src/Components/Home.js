@@ -1,4 +1,5 @@
 import React from 'react';
+import {Link} from 'react-router-dom';
 
 
 
@@ -6,12 +7,12 @@ function Home (){
     return(
         
 <div className="Home">
-   <h1 className="home-Advise"> ADVISE ME.</h1>
-   <h3 className="home-Vice">What's your Vice?</h3>
-   
-   
-   {/* row2 */}
-   <button className="vice-buttons">Love</button> <button  className="vice-buttons">Life</button>
+   <h1 className="home-Advise"> What's your <br/> Vice?</h1>
+   {/* <h2 className="home-Vice">What's your Vice?</h2> */}
+
+   <div>
+  <Link to='/life'> <button className="vice-buttons" >Love</button> </Link> <button  className="vice-buttons">Life</button>
+</div>
 </div>
         )
     

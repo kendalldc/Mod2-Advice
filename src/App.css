@@ -255,19 +255,19 @@ nav{
 
 
 .Home{
-  background-color: violet;
+  background-color: black;
   color: white;
-  display: grid;
-  grid-template-columns: 1fr;
-  grid-template-rows: 1fr 1fr;
-  gap: 1px 1px;
-  grid-template-areas: "." ".";
-
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
 }
 
 .home-Title{
 color: violet;
 font-size: 40px;
+
 }
 
 .nav-Link-Home{
@@ -315,4 +315,8 @@ body.main div.tm-header-placeholder {
   border: solid 3px black;
   background-color: #ffffff;
   font-style: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 800;
+  height: 30px;
+  width: 90px;
 }
