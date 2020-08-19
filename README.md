@@ -7,7 +7,7 @@ Users are able to get advice for them problems in one click.  This appeals to us
 
 The apps theme is sleek,simple, and most of all contemporary just like advice should be. Straight to the point.
 
-On the about page you can read about why therapy and or 
+On the about page you can read about why therapy and o
 
 
 
