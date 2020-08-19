@@ -257,8 +257,12 @@ nav{
 color:red;
 }
 
+.nav-Link-Home{
+  color: white;
+  text-decoration: none;
+}
 
-
+/* Home Page */
 .Home{
   background-color: black;
   color: white;
@@ -269,21 +273,23 @@ color:red;
   height: 100vh;
 }
 
-.home-Title{
+.home-Advise{
+  text-align: center;
+  font-size: 800%;
+  }
+
+/* .home-Title{
 color: violet;
 font-size: 40px;
 
-}
+} */
 
-.home-Advise{
-text-align: center;
-font-size: 800%;
-}
 
-.nav-Link-Home{
-  color: white;
-  text-decoration: none;
-}
+
+
+
+
+
 
 .cover{
   background-color: black;

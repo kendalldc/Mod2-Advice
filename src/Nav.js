@@ -6,6 +6,7 @@ function Nav(){
 
   
   return(
+    <div className="navbar">
 <nav>
     <h3>
       <Link className='nav-Link-Home' to='/'>Advise Me.</Link>
@@ -21,6 +22,7 @@ function Nav(){
            </Link>
         </ul>
 </nav>
+</div>
   )
 }
 
