@@ -14,9 +14,7 @@ inquire anonomysly
 5 presentational components (stateless):
 - app.js
 -
--
--
--
+
 
  3 or more routes:
  -Home
@@ -29,7 +27,7 @@ Make use of async actions to send data to and receive data from a server
 
 
 
-.
+
 
 
 
