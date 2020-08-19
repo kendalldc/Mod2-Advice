@@ -12,6 +12,10 @@ function Nav(){
       <Link className='nav-Link-Home' to='/'>Advise Me.</Link>
       </h3>
         <ul className='nav-Links'>
+
+        <Link className='nav-Link'to='/about'>
+           <li>About</li>
+           </Link>
           
          <Link  className='nav-Link' to='/life'>
          <li>Life</li>
