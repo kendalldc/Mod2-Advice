@@ -315,11 +315,13 @@ font-size: 40px;
 font-size: 150px;
 }
 
+/* Enter button */
 .cover-Button{
 width: 100px;
-height: 80px;
-border: solid 3px black;
-background-color: #164ca7;
+height: 50px;
+border: solid 1px white;
+background-color: black;
+color: white ;
 display: flex;
 justify-content: center;
 align-items: center;
@@ -330,6 +332,14 @@ top:50%;
 font-size: 20px;
 font-weight: bold;
 }
+
+.cover-Button:hover{
+  border: 3px solid white;
+  color: black;
+  background-color: white;
+}
+
+
 /* ___________________________________________________________ */
 
 
