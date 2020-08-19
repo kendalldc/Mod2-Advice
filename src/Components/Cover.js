@@ -1,4 +1,5 @@
 import React from 'react';
+import {Link} from 'react-router-dom';
 
 
 function Cover (){
@@ -6,7 +7,7 @@ function Cover (){
         <div className="cover">
 <div className="primary-nav"></div>
 <h1 className="cover-Text" > ADVISE ME.</h1>       
-<button className="cover-Button">Enter</button>
+<Link to="/home"><button className="cover-Button">Enter</button></Link>
 
  </div>
     )

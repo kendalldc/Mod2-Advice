@@ -249,9 +249,15 @@ nav{
 }
 
 .nav-Link{
-  color:red;
+  color:white;
   text-decoration: none;
+
 }
+
+.nav-Link:hover{
+color:red;
+}
+
 
 
 .Home{
@@ -268,6 +274,11 @@ nav{
 color: violet;
 font-size: 40px;
 
+}
+
+.home-Advise{
+text-align: center;
+font-size: 800%;
 }
 
 .nav-Link-Home{
@@ -293,6 +304,9 @@ width: 100px;
 height: 80px;
 border: solid 3px black;
 background-color: #164ca7;
+
+
+
 }
 
 
@@ -313,10 +327,15 @@ body.main div.tm-header-placeholder {
 /* Vice Buttons */
 .vice-buttons{
   border: solid 3px black;
-  background-color: #ffffff;
+  background-color: white;
   font-style: bold;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 800;
   height: 30px;
   width: 90px;
+}
+
+.vice-buttons:hover{
+  color:#e7e7e7;
+  background:black ;
 }
