@@ -7,7 +7,7 @@ function Home (){
 <div className="Home">
    <h1 className="home-Advise"> ADVISE ME.</h1>
    <h3 className="home-Vice">What's your Vice?</h3>
-   <button>Love</button> <button>Life</button>
+   <button className="vice-buttons">Love</button> <button  className="vice-buttons">Life</button>
 </div>
         )
     
