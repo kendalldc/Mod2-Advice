@@ -5,6 +5,8 @@ Everyone needs a fresh perspective on the problem we deal with. This fortune coo
 
 Users are able to get advice for them problems in one click.  This appeals to users who are interested in things like meditation and also the office.
 
+The apps theme is sleek,simple, and most of all  just like advice should be. Straight to 
+
 
 
 
