@@ -278,6 +278,8 @@ font-size: 150px;
 .cover-Button{
 width: 100px;
 height: 80px;
+border: solid 3px black;
+background-color: #164ca7;
 }
 
 
